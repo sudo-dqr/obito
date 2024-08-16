@@ -4,5 +4,6 @@ version = "0.1.0"
 edition = "2021"
 author = "sudo-dqr"
 description = "a simulation of GuoQing Li, BUAA(SCSE)"
+license = "MIT"
 
 [dependencies]
