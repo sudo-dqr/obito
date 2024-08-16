@@ -4,5 +4,8 @@
 //! Thanks to GuoQing Li, a friend I make during my undergraduate time in  SCSE, BUAA, who makse this demo crate more fun. 
 //! This crate is mainly based on GuoQing Li's daily life.
 //! You can use the operations in this crate to know about what GuoQing Li loves to do with sudo-dqr.
+//! Now it only inplements a finite status mechine to simulate the daytime of GuoQIng Li(Version 0.1.0).
 //! 
 //! 
+
+pub mod person;
